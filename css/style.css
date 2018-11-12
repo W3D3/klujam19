@@ -179,3 +179,23 @@ a {
 .sponsors DIV {
   padding-top:20px;
 }
+
+.topentries td {
+  border: #77BC1F;
+  font-size: 20pt;
+  padding: 0 10px
+
+}
+
+
+i.gold {
+  color: goldenrod;
+}
+
+i.silver {
+  color: silver;
+}
+
+i.bronze {
+  color: brown;
+}
