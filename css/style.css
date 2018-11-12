@@ -24,6 +24,11 @@
   float:right;
   border:0;
   width:220px;
+}
+
+.signUpButton:hover, .bigGreenButton:hover{
+
+  background-color: rgb(89, 139, 23);
 
 }
 
