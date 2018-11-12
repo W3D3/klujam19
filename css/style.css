@@ -24,6 +24,7 @@
   float:right;
   border:0;
   width:220px;
+  margin-right: 4px
 }
 
 .signUpButton:hover, .bigGreenButton:hover{
